@@ -1,5 +1,7 @@
-
- <h3>Advanced and powerful Android device controlling tool with a wide range of features and capabilities</h3>
+<div align="center">
+  <img src="/images/icon.png" width="30%" />
+  <h1 align="center">DogeRat RAT Premium</h1>
+  <h3>Advanced and powerful Android device controlling tool with a wide range of features and capabilities</h3>
   <h4>This software is exclusively designed for educational purposes ⚠️</h4>
   <p>
     <img src="images/logo.PNG" alt="logo" style="max-width: auto; height: auto;" />
@@ -65,13 +67,12 @@
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
   <a href="https://t.me/shivaya_dav">
-    <img src="https://img.shields Looking for a way to contact the developer or learn more about DogeRat? Reach out via our [Telegram channel](https://t.me/shivaya_dav):
-
-<div align="center">
+    <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
   <a href="https://t.me/shivaya_dav">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-</div>
+</p>
 
 <h2 align="center">🔗 Contact and Social Media Accounts</h2>
 <p align="center">
@@ -94,7 +95,7 @@
 </p>
 
 <p align="center">
-  <b><i>Note:</i></b> The developer provides no warranty with this software and will not be responsible for any direct or indirect damage caused by the usage of this tool. DogeRat is built for educational and internal use only.
+  <b><i>Note:</i></b> The developer provides no warranty with this software and will not be responsible for any direct or indirect damage caused by the usage of this tool. DogeRat is built for educational purposes only and should be used responsibly.
 </p>
 
 <p align="center">
@@ -102,7 +103,7 @@
 </p>
 
 <p align="center">
-  <b><i>Important:</i></b> To prevent any fraudulent activity, please ensure that the Telegram handle is <a href="https://t.me/shivaya_dav"><code>@shivaya_dav</code></a>. Beware of scams and phishing attempts that use similar usernames or handles.
+  <b><i>Important:</i></b> To prevent any fraudulent activity, please ensure that the Telegram handle is <a href="https://t.me/shivaya_dav"><code>@shivaya_dav</code></a>. Beware of scams and phishing attempts.
 </p>
 
 <p align="center">
@@ -110,7 +111,7 @@
 </p>
 
 <h1 align="center">Sponsorship</h1>
-<p align="center">If you find my work valuable, you can show your support by sponsoring me. Your contribution will help me maintain and improve my projects, and it will encourage me to create more useful content.</p>
+<p align="center">If you find my work valuable, you can show your support by sponsoring me. Your contribution will help me maintain and improve my projects, and it will encourage me to create more open-source tools.</p>
 <p align="center">
   <a href="https://t.me/shivaya_dav"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy me a coffee"></a>
 </p>
